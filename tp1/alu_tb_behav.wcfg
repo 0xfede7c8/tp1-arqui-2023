@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="calculator_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="calculator_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="378.671 ns"></ZoomEndTime>
+      <Cursor1Time time="310.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="157"></NameColumnWidth>
+      <ValueColumnWidth column_width="179"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject type="array" fp_name="/calculator_tb/calc/leds">
+      <obj_property name="ElementShortName">leds[7:0]</obj_property>
+      <obj_property name="ObjectShortName">leds[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/calculator_tb/calc/entrada">
+      <obj_property name="ElementShortName">entrada[7:0]</obj_property>
+      <obj_property name="ObjectShortName">entrada[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/calculator_tb/calc/boton_a">
+      <obj_property name="ElementShortName">boton_a</obj_property>
+      <obj_property name="ObjectShortName">boton_a</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/calculator_tb/calc/boton_b">
+      <obj_property name="ElementShortName">boton_b</obj_property>
+      <obj_property name="ObjectShortName">boton_b</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/calculator_tb/calc/boton_op">
+      <obj_property name="ElementShortName">boton_op</obj_property>
+      <obj_property name="ObjectShortName">boton_op</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/calculator_tb/calc/a">
+      <obj_property name="ElementShortName">a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/calculator_tb/calc/b">
+      <obj_property name="ElementShortName">b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/calculator_tb/calc/op">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/calculator_tb/calc/res">
+      <obj_property name="ElementShortName">res[7:0]</obj_property>
+      <obj_property name="ObjectShortName">res[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/calculator_tb/calc/boton_calc">
+      <obj_property name="ElementShortName">boton_calc</obj_property>
+      <obj_property name="ObjectShortName">boton_calc</obj_property>
+   </wvobject>
+</wave_config>

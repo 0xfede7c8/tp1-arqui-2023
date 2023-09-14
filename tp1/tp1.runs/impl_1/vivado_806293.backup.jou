@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1.1 (64-bit)
+# SW Build 3900603 on Fri Jun 16 19:30:25 MDT 2023
+# IP Build 3900379 on Sat Jun 17 05:28:05 MDT 2023
+# SharedData Build 3899622 on Fri Jun 16 03:34:24 MDT 2023
+# Start of session at: Wed Sep 13 18:04:51 2023
+# Process ID: 806293
+# Current directory: /home/xf/Facu/Arqui/Practico/TP1/tp1-arqui-2023/tp1/tp1.runs/impl_1
+# Command line: vivado -log calculator.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source calculator.tcl -notrace
+# Log file: /home/xf/Facu/Arqui/Practico/TP1/tp1-arqui-2023/tp1/tp1.runs/impl_1/calculator.vdi
+# Journal file: /home/xf/Facu/Arqui/Practico/TP1/tp1-arqui-2023/tp1/tp1.runs/impl_1/vivado.jou
+# Running On: xf, OS: Linux, CPU Frequency: 910.493 MHz, CPU Physical cores: 4, Host memory: 20752 MB
+#-----------------------------------------------------------
+source calculator.tcl -notrace
